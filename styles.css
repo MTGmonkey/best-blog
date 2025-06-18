@@ -1,0 +1,19 @@
+body {
+  background-color: #380E36;
+  color: #F7E5F4;
+  line-height: 1.6;
+  font-size: 19px;
+  width: 750px;
+  margin: auto;
+  margin-top: 100px;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  color: #5A77F2
+}
+pre {
+  background-color: #5E1C56;
+  white-space: pre-wrap;
+}
