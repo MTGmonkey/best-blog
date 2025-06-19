@@ -10,10 +10,12 @@ This is Andromeda's personal blog. It's served with [my webserver](https://git.m
 
 ### Copy locally:
 
-`git clone https://git.mtgmonkey.net/Andromeda/best-blog.git`
-`cd best-blog`
-`nix build`
-`./result/bin/best-blog`
+```bash
+git clone https://git.mtgmonkey.net/Andromeda/best-blog.git
+cd best-blog
+nix build
+./result/bin/best-blog
+```
 
 ## usage
 
