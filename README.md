@@ -1,6 +1,6 @@
 ### best-blog
 
-This is Andromeda's personal blog. It's served with [my webserver](https://git.mtgmonkey.net/Andromeda/best-blog.git) and is heavily inspired by [BMfW](http://bettermotherfuckingwebsite.com).
+This is Andromeda's personal blog. It's served with [my webserver](https://git.mtgmonkey.net/Andromeda/rust-http-server.git) and is heavily inspired by [BMFW](http://bettermotherfuckingwebsite.com).
 
 ## build
 
