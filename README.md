@@ -1,14 +1,14 @@
-### best-blog
+# best-blog
 
 This is Andromeda's personal blog. It's served with [my webserver](https://git.mtgmonkey.net/Andromeda/rust-http-server.git) and is heavily inspired by [BMFW](http://bettermotherfuckingwebsite.com).
 
 ## build
 
-# Try it out:
+### Try it out:
 
 `nix run git+https://git.mtgmonkey.net/Andromeda/best-blog.git`
 
-# Copy locally:
+### Copy locally:
 
 `git clone https://git.mtgmonkey.net/Andromeda/best-blog.git`
 `cd best-blog`
