@@ -41,11 +41,11 @@
         "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1750103311,
-        "narHash": "sha256-aefZc/S5xu26OeNjUXA9whnAK9D7lWejqrqQ2xfPw+U=",
+        "lastModified": 1750329691,
+        "narHash": "sha256-cUBi3+7cdnVlqTXptzzAnlQKw0DKIzmNCKBVhyOINEM=",
         "ref": "refs/heads/master",
-        "rev": "02acb04f650b494de1dfb78474bf7e397e0f2995",
-        "revCount": 1,
+        "rev": "cbb5a444d55a2d68f2070cf68263792e4b332fa6",
+        "revCount": 2,
         "type": "git",
         "url": "https://git.mtgmonkey.net/Andromeda/rust-http-server.git"
       },
